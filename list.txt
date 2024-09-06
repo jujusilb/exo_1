@@ -24,3 +24,6 @@ core.symlinks=false
 core.ignorecase=true
 --- %date% %time%
 %timestamp
+%timestamp%
+%D %T
+Fri Sep 6 11:31:08 2024
